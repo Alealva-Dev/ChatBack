@@ -1,5 +1,5 @@
-# bunnies_backend
-Backend do projeto BunniesHole
+# Chat App Backend
+Backend for chat application using socket.io
 
 ## Available Scripts
 
@@ -11,4 +11,3 @@ Backend do projeto BunniesHole
 
 ### `yarn dev:debug`
 "nodemon --inspect src/server.js"
-Configurado a opção de debug com -inspect, sendo assim não precisa parar o serviço para entrar em modo de debug
